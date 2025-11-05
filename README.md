@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Codewithzohaibs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Zohaib Rajper (@Codewithzohaibs)
 
-<!---
-Codewithzohaibs/Codewithzohaibs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm a Computer Science Graduate passionate about web development and cloud technologies.  
+💻 I’ve learned Frontend Development, Ubuntu Linux, Computer Networking, and AWS EC2.  
+🚀 Currently exploring Full Stack Development and DevOps to build scalable, modern solutions.  
+🤝 Open to collaborating on innovative web or cloud-based projects.  
+📫 Reach me at: "rajperzohaib39@gmail.com"
+
+
+🌐 “Continuously learning, building, and evolving in the world of technology.”
