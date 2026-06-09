@@ -1,10 +1,13 @@
 # 👋 Hi, I'm Zohaib Rajper (@Codewithzohaibs)
 
-🎓 I'm a Computer Science Graduate passionate about web development and cloud technologies.  
-💻 I’ve learned Frontend Development, Ubuntu Linux, Computer Networking, and AWS EC2.  
-🚀 Currently exploring Full Stack Development and DevOps to build scalable, modern solutions.  
-🤝 Open to collaborating on innovative web or cloud-based projects.  
-📫 Reach me at: "rajperzohaib39@gmail.com"
+🎓 Computer Science graduate with a strong interest in Cybersecurity and Computer Networking.  
 
+💻 I have foundational knowledge of Frontend Development, Ubuntu Linux, and basic IT systems.  
 
-🌐 “Continuously learning, building, and evolving in the world of technology.”
+🔐 Currently focused on Cybersecurity and Networking (CCNA), including network fundamentals, security principles, and system protection techniques.  
+
+🤝 Open to collaboration on learning-based or beginner-friendly IT and networking projects.  
+
+📫 Contact: rajperzohaib39@gmail.com  
+
+🌐 “Continuously learning, improving, and building strong foundations in cybersecurity and networking.”
